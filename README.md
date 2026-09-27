@@ -1,5 +1,5 @@
 # Online-retail-recommendation-system
-# Online Retail Recommendation System
+
 
 A product recommendation engine built on real-world e-commerce transaction data. The system uses **item-based collaborative filtering** (cosine similarity) to recommend products that are frequently purchased together, based on customer purchase history.
 
